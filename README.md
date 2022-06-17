@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 💖 Like: cats🐈 sushi🍣 tennis🎾 restaurants🍴 
 - 👀 Interest: technorogies🌐
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayupaca&layout=compact)](https://github.com/mayupaca/github-readme-stats)
