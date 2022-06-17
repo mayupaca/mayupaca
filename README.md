@@ -1,4 +1,4 @@
-# Hey there, I'm Mayu Suzumura 👋
+## Hey there, I'm Mayu Suzumura 👋
 ### I am a Japanese living in Toronto, Canada.
 
 <!--
