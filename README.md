@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m currently looking for new oppotunity as a web developer.
-- 🌱 I’m learning Spanish, English, 
+- 🌱 I’m learning Spanish and English. 
 - 💖 Like: cats🐈 sushi🍣 tennis🎾 restaurants🍴 
 - 👀 Interest: technorogies🌐
 
