@@ -1,5 +1,5 @@
-## Hey there, I'm Mayu Suzumura 👋
-### I am a Japanese living in Toronto, Canada.
+## Hi there, I'm Mayu Suzumura 👋
+I am a Japanese living in Toronto, Canada.
 
 <!--
 **mayupaca/mayupaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
