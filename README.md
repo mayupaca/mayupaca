@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there👋, I'm Mayu</h1>
 <h3 align="center">I am a Japanese living in Toronto, Canada.</h3>
 
-- 🔭 I’m currently looking for **for new oppotunity as a web developer**
+- 🔭 I’m currently looking for new oppotunity as a web developer
 
-- 🌱 I’m currently learning **python, Spanish, and English**
+- 🌱 I’m currently learning python, Spanish, and English
 
-- 👀 Interest: **technorogies🌐**
+- 👀 Interest: technorogies🌐
 
 - 💖 Like: cats🐈 sushi🍣 tennis🎾 restaurants🍴
 
