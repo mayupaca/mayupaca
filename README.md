@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 👀 Interest: **technorogies🌐**
 
-- 💖 Like: [cats🐈 sushi🍣 tennis🎾 restaurants🍴](cats🐈 sushi🍣 tennis🎾 restaurants🍴)
+- 💖 Like: cats🐈 sushi🍣 tennis🎾 restaurants🍴
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
