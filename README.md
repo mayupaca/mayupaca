@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
   
 <h3>Programming Languages</h3>
