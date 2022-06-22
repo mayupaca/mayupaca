@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ### Skill
 -->
 
-<h1 align="center">Hi there👋, I'm Mayu</h1>
-<h3 align="center">I am a Japanese living in Toronto, Canada.</h3>
+<h1>Hi there👋, I'm Mayu</h1>
+<h3>I am a Japanese living in Toronto, Canada.</h3>
 
 - 🔭 I’m currently looking for new oppotunity as a web developer
 
