@@ -15,7 +15,7 @@
 
 <br></br>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
   
 <h3 align="center">Programming Languages</h3>
@@ -36,7 +36,7 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center">Backend Development and Database</h3>
+<h3 align="center">Backend Development & Database</h3>
 <p align="center">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://images.tute.io/tute/topic/express-js.png" alt="express" width="40" height="40"/> </a> 
@@ -55,8 +55,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://inkscape.org/" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/256/Apps-inkscape-icon.png" alt="inkscape" width="40" height="40"/> </a> 
 </p>
-  
 </p>
+
+<p align="center">***************************************************************************************************************</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayupaca&show_icons=true&locale=en&layout=compact" alt="mayupaca" /></p>
 
