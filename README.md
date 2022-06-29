@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Mayu</h1>
+<h2 align="center">Hi there👋, I'm Mayu:)</h2>
 <h3 align="center">I am a Japanese living in Toronto, Canada.</h3>
 
 <p align="center">🔭 I’m currently looking for new oppotunity as a web developer<p>
