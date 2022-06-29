@@ -15,7 +15,7 @@
 
 <br></br>
 
-<h2 align="center" border-bottom="none">Languages and Tools:</h2>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   
 <h3 align="center">Programming Languages</h3>
