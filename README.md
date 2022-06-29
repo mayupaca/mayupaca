@@ -1,8 +1,6 @@
 <h2 align="center">Hi there👋, I'm Mayu:)</h2>
 <h3 align="center">I am a Japanese living in Toronto, Canada.</h3>
 
-<br></br>
-
 <p align="center">🔭 I’m currently looking for new oppotunity as a web developer<p>
 
 <p align="center">🌱 I’m currently learning python, Spanish, and English<p>
