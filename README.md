@@ -1,38 +1,13 @@
-<!--
-## Hi there, I'm Mayu Suzumura 👋
-I am a Japanese living in Toronto, Canada.
-
-
-**mayupaca/mayupaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
-
-- 🔭 I’m currently looking for new oppotunity as a web developer.
-- 🌱 I’m learning Spanish and English. 
-- 💖 Like: cats🐈 sushi🍣 tennis🎾 restaurants🍴 
-- 👀 Interest: technorogies🌐
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayupaca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Skill
--->
-
 <h1 align="center">Hi there👋, I'm Mayu</h1>
 <h3 align="center">I am a Japanese living in Toronto, Canada.</h3>
 
-- 🔭 I’m currently looking for new oppotunity as a web developer
+<p align="center">🔭 I’m currently looking for new oppotunity as a web developer<p>
 
-- 🌱 I’m currently learning python, Spanish, and English
+<p align="center">🌱 I’m currently learning python, Spanish, and English<p>
 
-- 👀 Interest: technorogies🌐
+<p align="center">👀 Interest: technorogies🌐<p>
 
-- 💖 Like: cats🐈 sushi🍣 tennis🎾 restaurants🍴
+<p align="center">💖 Like: cats🐈 sushi🍣 tennis🎾 restaurants🍴<p>
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
