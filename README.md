@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Mayu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-<!--![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Front+-end+Developer) -->
+![](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=59981A&lines=I+am+a+web+developer+living+in+Toronto🍁)
 
 
 - 🔭 I’m currently looking for new oppotunity as a **frontend web developer**
