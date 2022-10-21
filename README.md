@@ -3,9 +3,9 @@
 ![](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=59981A&lines=I+am+a+web+developer+living+in+Toronto🍁)
 
 
-- 🔭 I’m currently looking for new oppotunity as a **frontend web developer**
+- 🔭 I am currently searching for an entry-level position. Primarily looking for **Frontend, Backend and Full stack Development** roles
 
-- 🌱 I would like to learn **phython**
+- 🌱 I would like to learn **🐍Phython🐍**
 
 - 💖 Like: cats🐈 sushi🍣 tennis🎾 restaurants🍴
 
