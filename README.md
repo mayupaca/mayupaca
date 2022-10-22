@@ -1,9 +1,9 @@
-<h2 align="center">Hi there, I'm Mayu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2>Hi there, I'm Mayu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 ![](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=59981A&lines=I+am+a+web+developer+living+in+Toronto🍁)
 
 
-- 🔭 I am currently searching for an entry-level position. Primarily looking for **Frontend, Backend and Full stack Development** roles
+- 🔭 I am currently searching for an entry-level position. Primarily looking for **Frontend, Backend** and **Full stack Development** roles
 
 - 🌱 I would like to learn **🐍Phython🐍**
 
