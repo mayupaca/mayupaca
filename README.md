@@ -53,7 +53,9 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-  
+![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
   ---
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayupaca&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=151515&locale=en&layout=compact" alt="mayupaca" /></p>
