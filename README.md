@@ -59,8 +59,8 @@
 
   ---
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayupaca&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=151515&locale=en&layout=compact" alt="mayupaca" /></p>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayupaca&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=151515&locale=en&layout=compact" alt="mayupaca" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayupaca)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayupaca)](https://github.com/anuraghazra/github-readme-stats) -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayupaca&theme=dark&border_radius=4)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=mayupaca&theme=dark&border_radius=4)](https://git.io/streak-stats)
