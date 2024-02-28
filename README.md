@@ -5,7 +5,7 @@
 
 - 🔭 I am currently searching for an entry-level position. Primarily looking for **Frontend, Backend** and **Full stack Development** roles
 
-- 🌱 I am learning **🐍Phython🐍**
+- 🌱 I am learning **🐍Phython🐍**, **CTFL**
 
 - 💖 Like: cats🐈 sushi🍣 tennis🎾 restaurants🍴
 
